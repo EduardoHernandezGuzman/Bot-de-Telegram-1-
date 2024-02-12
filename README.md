@@ -41,6 +41,9 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 
 - **Comando `/help`**: Proporciona información sobre cómo utilizar el bot y las funcionalidades disponibles.
 
+- **Comando `/about`**: Muestra información sobre el bot, incluyendo detalles sobre su propósito y quién lo creó.
+
+
 ## Personalización
 
 Si deseas agregar nuevas funcionalidades o personalizar el comportamiento del bot, puedes modificar el archivo `main.py` según tus necesidades. La documentación de TeleBot puede ser útil para comprender cómo extender la funcionalidad del bot.
