@@ -4,7 +4,7 @@ Este proyecto consiste en un bot básico para Telegram desarrollado en Python ut
 
 ## Descripción
 
-Este repositorio contiene el código fuente necesario para crear un bot de Telegram funcional. El bot está diseñado para responder a comandos básicos y puede ser extendido fácilmente para agregar nuevas funcionalidades según sea necesario.
+Este bot para Telegram proporciona una experiencia básica de interacción para los usuarios. 
 
 ## Configuración
 
