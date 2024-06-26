@@ -43,6 +43,10 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 
 - **Comando `/about`**: Muestra información sobre el bot, incluyendo detalles sobre su propósito y quién lo creó.
 
+## El bot en funcionamiento
+
+![bot01](https://github.com/EduardoHernandezGuzman/Bot-de-Telegram-1-/assets/139759297/45817cad-d1b2-4edd-9924-82017c266af4)
+
 
 ## Personalización
 
