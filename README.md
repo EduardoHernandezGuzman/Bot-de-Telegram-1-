@@ -1,7 +1,6 @@
 # Bot-de-Telegram-1
 
 Este proyecto consiste en un bot básico para Telegram desarrollado en Python utilizando la librería TeleBot.
-![GIF](https://res.cloudinary.com/dtltowl61/image/upload/v1719416310/bot01_rzbvnm.gif)
 
 ## Descripción
 
