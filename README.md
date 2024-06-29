@@ -4,7 +4,7 @@ Este proyecto consiste en un bot básico para Telegram desarrollado en Python ut
 
 ## Descripción
 
-Este bot para Telegram proporciona una experiencia básica de interacción para los usuarios. 
+Este bot para Telegram proporciona una experiencia básica de interacción para los usuarios.
 
 ## Configuración
 
@@ -25,9 +25,22 @@ Sigue estos pasos para configurar y ejecutar el bot en tu entorno local:
 
 3. **Obtener Token de Bot**: Crea un nuevo bot en Telegram utilizando el BotFather y obtén el token del bot recién creado.
 
-4. **Configurar el Token**: Abre el archivo `main.py` en un editor de texto y reemplaza `"TU_TOKEN_AQUÍ"` con el token obtenido en el paso anterior.
+4. **Configurar el Token**:
+    - Crea un archivo `.env` en el directorio raíz del proyecto.
+    - Abre el archivo `.env` en un editor de texto y agrega la siguiente línea, reemplazando `"TU_TOKEN_AQUÍ"` con el token obtenido en el paso anterior:
 
-5. **Ejecutar el Bot**: Ejecuta el script `main.py` utilizando Python para iniciar el bot:
+    ```plaintext
+    TELEGRAM_TOKEN=TU_TOKEN_AQUÍ
+    ```
+
+5. **Asegurarse de que `.env` esté en `.gitignore`**:
+    - Asegúrate de que el archivo `.env` esté incluido en `.gitignore` para que no se suba al repositorio. El contenido de `.gitignore` debería incluir `.env`:
+
+    ```plaintext
+    .env
+    ```
+
+6. **Ejecutar el Bot**: Ejecuta el script `main.py` utilizando Python para iniciar el bot:
 
     ```bash
     python main.py
@@ -46,7 +59,6 @@ El bot actualmente cuenta con las siguientes funcionalidades:
 ## El bot en funcionamiento
 
 ![bot01](https://github.com/EduardoHernandezGuzman/Bot-de-Telegram-1-/assets/139759297/45817cad-d1b2-4edd-9924-82017c266af4)
-
 
 ## Personalización
 
